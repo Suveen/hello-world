@@ -3,4 +3,4 @@ Just another repository
 I am just testing GitHub here based on a tutorial.
 
 
-![Click Image] (http://cdn1.thecomeback.com/wp-content/uploads/2016/01/24-Live-Another-Day-Logo-16x9-1.jpg) 
+![Click Image] (https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-92187cba264a66cb3950e4c1ca334f6f.jpg)   
